@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://github.com/MehraDevesh2022">
-    <img src="https://komarev.com/ghpvc/?username=MehraDevesh2022" alt="Profile Visits">
+    <img src="https://images.app.goo.gl/sVyv3815iRL3j93K8" alt="Profile Visits">
   </a>
 </p>
 
