@@ -1,6 +1,6 @@
 <body style="background-color:WhiteSmoke;">
   
-<h1 align="center">नमस्ते! (Namaste!) 🙏 </h1>
+<h1 align="center">Azhar Ansari </h1>
 
 <img src = "./gif/header.png"/><br>
 
